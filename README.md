@@ -6,7 +6,7 @@ The present project, Realization of a wWatherApp build by laravel_Vuejs.
 
 Front-End:: JAVASCRIPT- VueJs - HTML5 - CSS3 - TailwindCss
 
-Back-End:: Laravel DATABASE:: UML - MYSQL - POWERAMC.
+Back-End:: Laravel - API.
 
 ### And Im Using Api too :
 --> From openweathermap Api to get  the current weather and daily forecast for 7 days
